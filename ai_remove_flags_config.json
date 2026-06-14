@@ -1,0 +1,13 @@
+{
+  "remove_exif": true,
+  "format_convert": "jpeg",
+  "brightness_change": 0.02,
+  "contrast_change": 0.02,
+  "saturation_change": 0.02,
+  "add_noise": true,
+  "noise_level": 15,
+  "resize": true,
+  "resize_factor": 0.98,
+  "output_dir": "output",
+  "verbose": false
+}
